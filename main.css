@@ -46,6 +46,12 @@ section h3 {
 #esportes {
     background-color: rgba(159, 235, 197, 0.274);
 }
+#cinema {
+    background-color: rgba(9, 11, 131, 0.253);
+}
+#clima {
+    background-color: rgba(216, 133, 39, 0.336);
+}
 header li {
     display: inline;
     padding: 8px;
