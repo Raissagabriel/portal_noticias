@@ -23,7 +23,7 @@ header .container {
     justify-content: space-between;
 }
 .articles article img {
-    /*height: 270px; */
+    height: 400px;
     width: 100%;
 }
 .articles article {
